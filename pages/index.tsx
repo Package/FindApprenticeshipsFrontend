@@ -15,7 +15,7 @@ const Vacancies: FC<VacanciesPageProps> = ({ vacancies }) => {
       <PageTitle title="Find an apprenticeship" description="Search and apply for an apprenticeship in England" />
 
       <div className="container">
-        <VacancyResultsList vacancies={vacancies.slice(0, 10)} />
+        <VacancyResultsList vacancies={vacancies} />
       </div>
     </div>
   )

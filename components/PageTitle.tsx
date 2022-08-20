@@ -11,7 +11,7 @@ export const PageTitle: FC<PageTitleProps> = ({ title, description }) => {
         <div className="page-header">
             <div className="container">
                 <h1 className="page-header--title">
-                    <Link href="/vacancies">
+                    <Link href="/">
                         {title}
                     </Link>
                 </h1>
