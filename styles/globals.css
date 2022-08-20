@@ -13,6 +13,7 @@
 
 /* Core */
 * {
+    box-sizing: border-box;
     font-family: "Source Sans Pro", Arial, sans-serif;
     color: var(--colour-black);
     font-size: 1.1rem;
@@ -125,14 +126,18 @@ li {
 }
 
 /* VacancyDetail */
+.vacancy-detail--sections {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+}
+
 .vacancy-detail--section {
-    background: #f1f1f1;
     padding: 1rem;
-    margin-bottom: 1rem;
 }
 
 .vacancy-detail--section:nth-child(odd) {
-    background: #e1e1e1;
+    border-right: 1px solid #dedede;
 }
 
 .vacancy-detail--title {
@@ -173,8 +178,21 @@ li {
     margin: 0 0 .5rem 0;
 }
 
-.vacancy-detail ul {
-    display: grid;
-    grid-gap: 1rem;
-    grid-template-columns: 1fr 1fr 1fr;
+@media all and (max-width: 960px) {
+    .vacancy-detail--sections {
+        grid-template-columns: 1fr;
+    }
+
+    .vacancy-detail--section {
+        padding: 0;
+        border-bottom: 1px solid #dedede;
+    }
+
+    .vacancy-detail--section:last-of-type {
+        border-bottom: 0;
+    }
+
+    .vacancy-detail--section:nth-child(odd) {
+        border-right: 0;
+    }
 }

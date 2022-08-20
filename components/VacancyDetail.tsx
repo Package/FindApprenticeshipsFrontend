@@ -1,7 +1,8 @@
 import React, { FC } from 'react'
 import { Vacancy } from '../types'
+import { VacancyDates } from './VacancyDates';
 import { VacancyApply } from './VacancyApply';
-import { VacancyCoreDetails } from './VacancyCoreDetails';
+import { VacancyIntro } from './VacancyIntro';
 import { VacancyCourse } from './VacancyCourse';
 import { VacancyEmployer } from './VacancyEmployer';
 import { VacancyLocation } from './VacancyLocation';
@@ -16,19 +17,23 @@ export const VacancyDetail: FC<VacancyDetailProps> = ({ vacancy }) => {
 
     return (
         <div className="vacancy-detail">
-            <VacancyCoreDetails vacancy={vacancy} />
+            <VacancyIntro vacancy={vacancy} />
 
             <VacancyApply vacancy={vacancy} />
 
-            <VacancyLocation vacancy={vacancy} />
+            <div className="vacancy-detail--sections">
+                <VacancyDates vacancy={vacancy} />
 
-            <VacancyWage vacancy={vacancy} />
+                <VacancyLocation vacancy={vacancy} />
 
-            <VacancyEmployer vacancy={vacancy} />
+                <VacancyWage vacancy={vacancy} />
 
-            <VacancyWorkingPattern vacancy={vacancy} />
+                <VacancyEmployer vacancy={vacancy} />
 
-            <VacancyCourse vacancy={vacancy} />
+                <VacancyWorkingPattern vacancy={vacancy} />
+
+                <VacancyCourse vacancy={vacancy} />
+            </div>
         </div>
     )
 }
