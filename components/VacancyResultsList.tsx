@@ -10,7 +10,7 @@ export const VacancyResultsList: FC<VacancyResultsListProps> = ({ vacancies }) =
     return (
         <div className="vacancy-list">
             {vacancies.map((vacancy: Vacancy) =>
-                <VacancyCard vacancy={vacancy} />
+                <VacancyCard vacancy={vacancy} key={vacancy.vacancyReference} />
             )}
         </div>
     )
