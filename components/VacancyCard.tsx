@@ -35,11 +35,9 @@ export const VacancyCard: FC<VacancyCardProps> = ({ vacancy }) => {
                     <li>
                         <strong>Apprenticeship level: </strong> {vacancy.apprenticeshipLevel}
                     </li>
-                    {vacancy.wage.wageAmount && (
-                        <li>
-                            <strong>Wage: </strong> £{vacancy.wage.wageAmount?.toFixed(2)}
-                        </li>
-                    )}
+                    <li>
+                        <strong>Wage: </strong> {vacancy.wage.wageAdditionalInformation}
+                    </li>
                 </ul>
             </div>
         </div>
