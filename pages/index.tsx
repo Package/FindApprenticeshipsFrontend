@@ -1,4 +1,5 @@
 import { NextPageContext } from 'next';
+import Head from 'next/head';
 import React, { FC } from 'react'
 import { PageTitle } from '../components/PageTitle';
 import { VacancyResultsList } from '../components/VacancyResultsList';
@@ -11,13 +12,19 @@ interface VacanciesPageProps {
 
 const Vacancies: FC<VacanciesPageProps> = ({ vacancies }) => {
   return (
-    <div className="page">
-      <PageTitle title="Find an apprenticeship" description="Search and apply for an apprenticeship in England" />
+    <>
+      <Head>
+        <title>Find an Apprenticeship</title>
+      </Head>
 
-      <div className="container">
-        <VacancyResultsList vacancies={vacancies} />
+      <div className="page">
+        <PageTitle title="Find an Apprenticeship" description="Search and apply for an apprenticeship in England" />
+
+        <div className="container">
+          <VacancyResultsList vacancies={vacancies} />
+        </div>
       </div>
-    </div>
+    </>
   )
 }
 
