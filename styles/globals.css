@@ -1,26 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+
+/* Variables */
+:root {
+    --colour-black: #0b0c0c;
+    --colour-grey: #6f777b;
+    --colour-light-grey: #c6c6c6;
+    --colour-link: #1d70b8;
+    --colour-link-visited: #4c2c92;
+    --colour-green: #00823b;
+    --colour-dark-green: #003618;
+}
+
+/* Core */
+* {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    color: var(--colour-black);
+    font-size: 1.1rem;
+}
+
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    margin: 0;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+    color: var(--colour-link);
+    text-decoration: underline;
 }
 
-* {
-  box-sizing: border-box;
+a:visited {
+    color: var(--colour-link-visited);
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+address {
+    font-style: normal;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+li {
+    margin: 1rem 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+/* PageTitle */
+.page-header {
+    padding: 2rem 0;
+    background: #263135;
+}
+
+.page-header--title {
+    margin: 1rem 0;
+}
+
+.page-header--title a {
+    text-decoration: none;
+    font-size: 3rem;
+    color: #fff;
+}
+
+.page-header--title a:hover {
+    text-decoration: underline;
+}
+
+.page-header--title a:visited {
+    color: #fff;
+}
+
+
+.page-header--description {
+    font-size: 1.5rem;
+    color: var(--colour-grey);
+    margin: 1rem 0;
+}
+
+/* VacancyResultsList */
+
+/* VacancyCard */
+.vacancy-card {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--colour-light-grey);
+}
+
+.vacancy-card:last-child {
+    border-bottom: 0;
+}
+
+.vacancy-card--title {
+    margin: 0 0 1rem 0;
+}
+
+.vacancy-card--title a {
+    font-size: 1.75rem;
+}
+
+.vacancy-card--course {
+    margin: .5rem 0;
+}
+
+.vacancy-card--company {
+    color: var(--colour-grey);
+}
+
+.tab-list a {
+    cursor: pointer;
+}
+
+.tab-list a.active {
+    font-weight: bold;
+}
+
+/* VacancyDetail */
+.vacancy-detail--section {
+    background: #f1f1f1;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.vacancy-detail--section:nth-child(odd) {
+    background: #e1e1e1;
+}
+
+.vacancy-detail--title {
+    font-size: 2.5rem;
+    margin: 0 0 .5rem 0;
+}
+
+.vacancy-detail--subtitle {
+    font-size: 1.5rem;
+    color: var(--colour-grey);
+    margin: 0 0 1rem 0;
+}
+
+.vacancy-detail--apply {
+    margin: .5rem 0 1.5rem 0;
+}
+
+.vacancy-detail--apply--button {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background: var(--colour-green);
+    padding: .5rem .75rem;
+    box-shadow: 0 2px 0 var(--colour-dark-green);
+}
+
+.vacancy-detail--apply--button:visited {
+    color: #fff;
+}
+
+.vacancy-detail--header {
+    margin: 0 0 1rem 0;
+    padding: 0;
+    font-size: 2rem;
+}
+
+.vacancy-detail h4 {
+    margin: 0 0 .5rem 0;
+}
+
+.vacancy-detail ul {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 1fr 1fr 1fr;
 }
