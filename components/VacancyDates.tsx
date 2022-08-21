@@ -13,7 +13,7 @@ export const VacancyDates: FC<VacancyDatesProps> = ({ vacancy }) => {
             <ul>
                 <li>
                     <h4>Posted date</h4>
-                    {formatDate(vacancy.closingDate)}
+                    {formatDate(vacancy.postedDate)}
                 </li>
 
                 <li>
