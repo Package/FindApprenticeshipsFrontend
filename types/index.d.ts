@@ -53,3 +53,6 @@ export interface Vacancy {
     expectedDuration: string;
 }
 
+export interface ApiVacancyResponse {
+    vacancies: Vacancy[];
+}

@@ -14,11 +14,11 @@ const Vacancies: FC<VacanciesPageProps> = ({ vacancies }) => {
   return (
     <>
       <Head>
-        <title>Find an Apprenticeship</title>
+        <title>Find an apprenticeship</title>
       </Head>
 
       <div className="page">
-        <PageTitle title="Find an Apprenticeship" description="Search and apply for an apprenticeship in England" />
+        <PageTitle title="Find an apprenticeship" description="Search and apply for an apprenticeship in England" />
 
         <div className="container">
           <VacancyResultsList vacancies={vacancies} />
@@ -31,7 +31,7 @@ const Vacancies: FC<VacanciesPageProps> = ({ vacancies }) => {
 export async function getServerSideProps(context: NextPageContext) {
   return {
     props: {
-      vacancies: getAllVacancies()
+      vacancies: await getAllVacancies()
     }
   }
 }

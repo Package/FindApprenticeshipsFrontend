@@ -33,7 +33,7 @@ export async function getServerSideProps(context: NextPageContext) {
 
     return {
         props: {
-            vacancy: getVacancyByReference(vacancyReference)
+            vacancy: await getVacancyByReference(vacancyReference)
         }
     }
 }
