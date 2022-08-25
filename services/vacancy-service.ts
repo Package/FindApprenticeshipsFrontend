@@ -1,6 +1,6 @@
-import { ApiVacancyResponse, Vacancy } from "../types";
+import { ApiVacancyResponse, SearchState, Vacancy } from "../types";
 
-export async function getAllVacancies(): Promise<Vacancy[]> {
+export async function getAllVacancies(searchState: SearchState): Promise<Vacancy[]> {
     const url = `${process.env.API_URL}/vacancy?PageSize=100`;
     const response = await fetch(url, {
         headers: {

@@ -1,0 +1,3407 @@
+[
+    {
+        "larsCode": 274,
+        "title": "Abattoir worker (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 272,
+        "title": "Academic professional (level 7)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 176,
+        "title": "Accident repair technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 204,
+        "title": "Accountancy or taxation professional (level 7)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 488,
+        "title": "Accounts or finance assistant (level 2)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 463,
+        "title": "Acoustics technician (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 17,
+        "title": "Actuarial technician (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 255,
+        "title": "Actuary (level 7)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 119,
+        "title": "Adult care worker (level 2)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 545,
+        "title": "Advanced and creative hair professional (level 3)",
+        "route": "Hair and beauty"
+    },
+    {
+        "larsCode": 271,
+        "title": "Advanced baker (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 563,
+        "title": "Advanced beauty therapist (level 3)",
+        "route": "Hair and beauty"
+    },
+    {
+        "larsCode": 152,
+        "title": "Advanced butcher (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 240,
+        "title": "Advanced carpentry and joinery (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 252,
+        "title": "Advanced clinical practitioner (integrated degree) (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 148,
+        "title": "Advanced credit controller and debt collection specialist (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 149,
+        "title": "Advanced dairy technologist (level 5)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 489,
+        "title": "Advanced forensic practitioner (custody or sexual offence) (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 509,
+        "title": "Advanced furniture CNC technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 535,
+        "title": "Advanced golf greenkeeper (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 525,
+        "title": "Advanced upholsterer (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 373,
+        "title": "Advertising and media executive (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 37,
+        "title": "Aerospace engineer (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 56,
+        "title": "Aerospace manufacturing electrical, mechanical and systems fitter (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 3,
+        "title": "Aerospace manufacturing fitter (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 38,
+        "title": "Aerospace software development engineer (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 572,
+        "title": "Agriculture or horticulture professional adviser (level 6)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 490,
+        "title": "Air traffic controller (level 5)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 114,
+        "title": "Aircraft certifying technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 113,
+        "title": "Aircraft maintenance fitter or technician (fixed and rotary wing) (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 121,
+        "title": "Airside operator (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 298,
+        "title": "Ambulance support worker (emergency, urgent and non-urgent) (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 332,
+        "title": "Animal care and welfare assistant (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 179,
+        "title": "Animal technologist (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 379,
+        "title": "Animal trainer (level 4)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 645,
+        "title": "Anti-social behaviour and community safety officer (level 4)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 663,
+        "title": "Applications support lead (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 660,
+        "title": "Arboriculturist (level 4)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 180,
+        "title": "Arborist (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 484,
+        "title": "Archaeological specialist (degree) (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 429,
+        "title": "Archaeological technician (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 300,
+        "title": "Architect (integrated degree) (level 7)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 299,
+        "title": "Architectural assistant (integrated degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 668,
+        "title": "Archivist and records manager (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 561,
+        "title": "Artificial intelligence (AI) data specialist (level 7)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 432,
+        "title": "Arts therapist (degree) (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 303,
+        "title": "Asbestos analyst and surveyor (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 601,
+        "title": "Asbestos removal operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 401,
+        "title": "Assessor coach (level 4)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 624,
+        "title": "Asset manager (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 133,
+        "title": "Assistant accountant (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 485,
+        "title": "Assistant buyer and assistant merchandiser (level 6)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 526,
+        "title": "Assistant puppet maker (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 628,
+        "title": "Assistant recording technician (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 85,
+        "title": "Assistant technical director (visual effects) (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 156,
+        "title": "Associate ambulance practitioner (level 4)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 483,
+        "title": "Associate continuing healthcare practitioner (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 128,
+        "title": "Associate project manager (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 283,
+        "title": "Autocare technician (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 474,
+        "title": "Automation and controls engineering technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 304,
+        "title": "Automotive glazing technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 657,
+        "title": "Aviation customer service operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 658,
+        "title": "Aviation ground handler (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 87,
+        "title": "Aviation ground operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 86,
+        "title": "Aviation ground specialist (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 141,
+        "title": "Aviation maintenance mechanic (military) (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 653,
+        "title": "Aviation movement specialist (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 123,
+        "title": "Aviation operations manager (level 4)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 177,
+        "title": "Baker (level 2)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 390,
+        "title": "Beauty and make up consultant (level 2)",
+        "route": "Hair and beauty"
+    },
+    {
+        "larsCode": 363,
+        "title": "Beauty therapist (level 2)",
+        "route": "Hair and beauty"
+    },
+    {
+        "larsCode": 544,
+        "title": "BEMS (building energy management systems) controls engineer (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 521,
+        "title": "Bespoke furniture maker (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 183,
+        "title": "Bespoke saddler (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 72,
+        "title": "Bespoke tailor and cutter (level 5)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 339,
+        "title": "Bicycle mechanic (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 400,
+        "title": "Bid and proposal co-ordinator (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 406,
+        "title": "Bioinformatics scientist (degree) (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 534,
+        "title": "Blacksmith (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 76,
+        "title": "Boatbuilder (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 522,
+        "title": "Boatmaster (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 599,
+        "title": "Bookbinder (level 2)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 294,
+        "title": "Brewer (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 287,
+        "title": "Bricklayer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 354,
+        "title": "Broadcast and media systems engineer (integrated degree) (level 6)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 460,
+        "title": "Broadcast and media systems technical operator (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 547,
+        "title": "Broadcast and media systems technician (level 5)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 112,
+        "title": "Broadcast production assistant (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 447,
+        "title": "Building control surveyor (integrated degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 198,
+        "title": "Building services design engineer (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 173,
+        "title": "Building services engineering craftsperson (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 185,
+        "title": "Building services engineering ductwork craftsperson (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 192,
+        "title": "Building services engineering ductwork installer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 164,
+        "title": "Building services engineering installer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 275,
+        "title": "Building services engineering senior technician (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 193,
+        "title": "Building services engineering service and maintenance engineer (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 276,
+        "title": "Building services engineering site management (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 178,
+        "title": "Building services engineering technician 2022 (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 194,
+        "title": "Building services engineering ventilation hygiene technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 134,
+        "title": "Bus and coach engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 196,
+        "title": "Business administrator (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 165,
+        "title": "Business analyst (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 250,
+        "title": "Business fire safety advisor (level 3)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 311,
+        "title": "Business to business sales professional (integrated degree) (level 6)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 54,
+        "title": "Butcher (level 2)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 458,
+        "title": "Buying and merchandising assistant (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 305,
+        "title": "Cabin crew (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 573,
+        "title": "Camera prep technician (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 453,
+        "title": "Career development professional (level 6)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 239,
+        "title": "Carpentry and joinery (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 641,
+        "title": "Chartered landscape professional (level 7)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 41,
+        "title": "Chartered legal executive (level 6)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 55,
+        "title": "Chartered manager (degree) (level 6)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 50,
+        "title": "Chartered surveyor (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 424,
+        "title": "Chartered town planner (degree) (level 7)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 169,
+        "title": "Chef de partie (level 3)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 308,
+        "title": "Children, young people and families manager (level 5)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 309,
+        "title": "Children, young people and families practitioner (level 4)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 510,
+        "title": "Church minister (integrated degree) (level 6)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 200,
+        "title": "Civil engineer (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 259,
+        "title": "Civil engineering senior technician (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 277,
+        "title": "Civil engineering site management (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 199,
+        "title": "Civil engineering technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 591,
+        "title": "Clinical associate in psychology (CAP) (integrated degree) (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 444,
+        "title": "Clinical coder (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 581,
+        "title": "Clinical dental technician (integrated) (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 604,
+        "title": "Clinical pharmacology scientist (integrated degree) (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 609,
+        "title": "Clinical scientist (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 307,
+        "title": "Clinical trials specialist (degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 533,
+        "title": "Clock maker (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 555,
+        "title": "Coaching professional (level 5)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 479,
+        "title": "Commercial catering equipment technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 222,
+        "title": "Commercial procurement and supply (formerly Public sector commercial professional) (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 234,
+        "title": "Commercial thermal insulation operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 93,
+        "title": "Commis chef (level 2)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 215,
+        "title": "Community activator coach (level 2)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 242,
+        "title": "Community energy specialist (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 659,
+        "title": "Community health and wellbeing worker (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 427,
+        "title": "Community safety advisor (level 3)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 251,
+        "title": "Community sport and health officer (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 143,
+        "title": "Compliance and risk officer (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 160,
+        "title": "Composites technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 562,
+        "title": "Compressed air and vacuum technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 467,
+        "title": "Construction assembly and installation operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 500,
+        "title": "Construction design and build technician (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 588,
+        "title": "Construction equipment maintenance mechanic (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 575,
+        "title": "Construction plant operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 468,
+        "title": "Construction quantity surveying technician (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 482,
+        "title": "Construction quantity surveyor (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 501,
+        "title": "Construction site management (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 502,
+        "title": "Construction site supervisor (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 673,
+        "title": "Construction support technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 9,
+        "title": "Control technical support engineer (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 39,
+        "title": "Conveyancing technician (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 622,
+        "title": "Corporate responsibility and sustainability practitioner (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 606,
+        "title": "Costume performance technician (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 503,
+        "title": "Counter fraud investigator (level 4)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 585,
+        "title": "Countryside ranger (level 4)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 543,
+        "title": "Countryside worker (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 542,
+        "title": "Creative digital design professional (integrated degree) (level 6)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 528,
+        "title": "Creative industries production manager (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 229,
+        "title": "Creative venue technician (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 77,
+        "title": "Credit controller and collector (level 2)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 314,
+        "title": "Crop technician (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 418,
+        "title": "Cultural heritage conservation technician (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 451,
+        "title": "Cultural heritage conservator (degree) (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 407,
+        "title": "Cultural learning and participation officer (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 554,
+        "title": "Curator (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 539,
+        "title": "Curtain wall installer (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 269,
+        "title": "Custody and detention officer (level 3)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 122,
+        "title": "Customer service practitioner (level 2)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 278,
+        "title": "Customer service specialist (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 79,
+        "title": "Cyber intrusion analyst (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 355,
+        "title": "Cyber security technical professional (integrated degree) (level 6)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 559,
+        "title": "Cyber security technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 98,
+        "title": "Cyber security technologist (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 619,
+        "title": "Cyber security technologist (2021) (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 80,
+        "title": "Data analyst (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 676,
+        "title": "Data protection and information governance practitioner (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 337,
+        "title": "Data scientist (integrated degree) (level 6)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 576,
+        "title": "Data technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 552,
+        "title": "Debt adviser (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 343,
+        "title": "Demolition operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 19,
+        "title": "Dental laboratory assistant (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 61,
+        "title": "Dental nurse (integrated) (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 20,
+        "title": "Dental practice manager (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 18,
+        "title": "Dental technician (integrated) (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 511,
+        "title": "Design and construction management (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 548,
+        "title": "DevOps engineer (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 431,
+        "title": "Diagnostic radiographer (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 469,
+        "title": "Dietitian (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 643,
+        "title": "Digital accessibility specialist (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 25,
+        "title": "Digital and technology solutions professional (integrated degree) (level 6)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 327,
+        "title": "Digital and technology solutions specialist (integrated degree) (level 7)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 491,
+        "title": "Digital community manager (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 195,
+        "title": "Digital engineering technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 78,
+        "title": "Digital marketer (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 293,
+        "title": "Digital marketer (integrated degree) (level 6)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 439,
+        "title": "Digital support technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 541,
+        "title": "Digital user experience (UX) professional (integrated degree) (level 6)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 504,
+        "title": "District nurse (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 680,
+        "title": "Doctor (Degree) (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 656,
+        "title": "Dog groomer (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 678,
+        "title": "Domestic electrician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 456,
+        "title": "Drinks dispense technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 26,
+        "title": "Dual fuel smart meter installer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 634,
+        "title": "Early intervention practitioner (level 4)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 430,
+        "title": "Early years educator (level 3)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 655,
+        "title": "Early years lead practitioner (level 5)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 550,
+        "title": "Early years practitioner (level 2)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 466,
+        "title": "Ecologist (degree) (level 7)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 639,
+        "title": "Education technician (he assistant technician and simulation-based technician) (level 3)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 10,
+        "title": "Electrical or electronic technical support engineer (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 216,
+        "title": "Electrical power networks engineer (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 127,
+        "title": "Electrical power protection and plant commissioning engineer (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 212,
+        "title": "Electrical, electronic product service and installation engineer (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 614,
+        "title": "Electro-mechanical engineer (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 475,
+        "title": "Electronic systems principal engineer (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 107,
+        "title": "Embedded electronic systems design and development engineer (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 262,
+        "title": "Emergency service contact handling (level 3)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 415,
+        "title": "Employability practitioner (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 595,
+        "title": "Engineer surveyor (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 376,
+        "title": "Engineering construction erector rigger (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 202,
+        "title": "Engineering construction pipefitter (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 92,
+        "title": "Engineering design and draughtsperson (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 377,
+        "title": "Engineering fitter (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 523,
+        "title": "Engineering manufacturing technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 352,
+        "title": "Engineering operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 167,
+        "title": "Engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 631,
+        "title": "Enhanced clinical practitioner (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 464,
+        "title": "Environmental health practitioner (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 465,
+        "title": "Environmental practitioner (degree) (level 6)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 263,
+        "title": "Equine groom (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 159,
+        "title": "Event assistant (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 517,
+        "title": "Express delivery manager (degree) (level 6)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 338,
+        "title": "Express delivery operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 674,
+        "title": "Express delivery sortation hub operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 162,
+        "title": "Facilities management supervisor (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 266,
+        "title": "Facilities manager (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 440,
+        "title": "Facilities services operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 638,
+        "title": "Fall protection technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 481,
+        "title": "Farrier (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 361,
+        "title": "Fashion and textiles pattern cutter (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 359,
+        "title": "Fashion and textiles product technologist (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 408,
+        "title": "Fashion studio assistant (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 356,
+        "title": "Fencing installer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 512,
+        "title": "Fenestration fabricator (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 513,
+        "title": "Fenestration installer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 153,
+        "title": "Financial adviser (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 8,
+        "title": "Financial services administrator (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 28,
+        "title": "Financial services customer adviser (level 2)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 213,
+        "title": "Financial services professional (level 6)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 126,
+        "title": "Fire emergency and security systems technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 642,
+        "title": "Fire safety engineer (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 530,
+        "title": "Fire safety inspector (level 4)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 410,
+        "title": "First officer pilot (level 6)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 640,
+        "title": "Fisher (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 172,
+        "title": "Fishmonger (level 2)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 498,
+        "title": "Fitted furniture design technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 372,
+        "title": "Floorlayer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 567,
+        "title": "Florist (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 245,
+        "title": "Food and drink advanced engineer (integrated degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 454,
+        "title": "Food and drink engineer (level 5)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 16,
+        "title": "Food and drink maintenance engineer (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 130,
+        "title": "Food and drink process operator (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 129,
+        "title": "Food and drink technical operator (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 184,
+        "title": "Food industry technical professional (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 131,
+        "title": "Food technologist (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 289,
+        "title": "Footwear manufacturer (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 589,
+        "title": "Forensic collision investigator (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 182,
+        "title": "Forest operative (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 329,
+        "title": "Formworker (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 582,
+        "title": "Fundraiser (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 411,
+        "title": "Funeral director (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 412,
+        "title": "Funeral team member (level 2)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 137,
+        "title": "Furniture manufacturer (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 650,
+        "title": "Game programmer (level 7)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 514,
+        "title": "Garment maker (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 74,
+        "title": "Gas engineering operative (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 57,
+        "title": "Gas network craftsperson (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 58,
+        "title": "Gas network operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 621,
+        "title": "General farm worker (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 94,
+        "title": "General welder (arc processes) (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 254,
+        "title": "Geospatial mapping and science specialist (degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 244,
+        "title": "Geospatial survey technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 652,
+        "title": "Geotechnical engineer (integrated degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 553,
+        "title": "Golf course manager (level 5)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 21,
+        "title": "Golf greenkeeper (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 388,
+        "title": "Groundworker (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 157,
+        "title": "Hair professional (level 2)",
+        "route": "Hair and beauty"
+    },
+    {
+        "larsCode": 527,
+        "title": "Harbour master (level 6)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 580,
+        "title": "Health and care intelligence specialist (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 505,
+        "title": "Health play specialist (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 102,
+        "title": "Healthcare assistant practitioner (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 532,
+        "title": "Healthcare cleaning operative (level 2)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 630,
+        "title": "Healthcare engineering specialist technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 99,
+        "title": "Healthcare science assistant (level 2)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 150,
+        "title": "Healthcare science associate (level 4)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 168,
+        "title": "Healthcare science practitioner (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 103,
+        "title": "Healthcare support worker (level 2)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 421,
+        "title": "Hearing aid dispenser (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 135,
+        "title": "Heavy vehicle service and maintenance technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 341,
+        "title": "Heritage engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 220,
+        "title": "High speed rail and infrastructure technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 125,
+        "title": "Highway electrical maintenance and installation operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 124,
+        "title": "Highways electrician or service operative (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 336,
+        "title": "Highways maintenance skilled operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 385,
+        "title": "Hire controller (plant, tools and equipment) (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 441,
+        "title": "Historic environment advice assistant (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 566,
+        "title": "Historic environment advisor (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 108,
+        "title": "HM forces serviceperson (public services) (level 2)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 662,
+        "title": "Horticulture and landscaping technical manager (level 5)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 181,
+        "title": "Horticulture or landscape operative (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 223,
+        "title": "Hospitality manager (level 4)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 138,
+        "title": "Hospitality supervisor (level 3)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 96,
+        "title": "Hospitality team member (level 2)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 65,
+        "title": "Housing and property management (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 64,
+        "title": "Housing and property management assistant (level 2)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 190,
+        "title": "HR consultant partner (level 5)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 191,
+        "title": "HR support (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 584,
+        "title": "Hygiene specialist (level 4)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 405,
+        "title": "Improvement leader (level 6)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 237,
+        "title": "Improvement practitioner (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 375,
+        "title": "Improvement specialist (level 5)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 238,
+        "title": "Improvement technician (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 358,
+        "title": "Industrial coatings applicator (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 233,
+        "title": "Industrial thermal insulation technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 618,
+        "title": "Information communications technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 540,
+        "title": "Information manager (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 82,
+        "title": "Infrastructure technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 5,
+        "title": "Installation electrician and maintenance electrician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 60,
+        "title": "Insurance practitioner (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 63,
+        "title": "Insurance professional (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 382,
+        "title": "Intelligence analyst (level 4)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 470,
+        "title": "Interior systems installer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 295,
+        "title": "Internal audit practitioner (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 324,
+        "title": "Internal audit professional (level 7)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 264,
+        "title": "International freight forwarding specialist (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 29,
+        "title": "Investment operations administrator (level 2)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 30,
+        "title": "Investment operations specialist (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 33,
+        "title": "Investment operations technician (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 413,
+        "title": "IT solutions technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 142,
+        "title": "IT technical salesperson (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 605,
+        "title": "Jewellery, silversmithing, and allied trades professional (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 670,
+        "title": "Journalist (level 5)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 84,
+        "title": "Junior 2D artist (visual effects) (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 574,
+        "title": "Junior advertising creative (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 558,
+        "title": "Junior animator (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 174,
+        "title": "Junior content producer (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 68,
+        "title": "Junior energy manager (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 310,
+        "title": "Junior estate agent (level 2)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 22,
+        "title": "Junior journalist (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 83,
+        "title": "Junior management consultant (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 597,
+        "title": "Junior vfx artist (generalist) (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 492,
+        "title": "Keeper and aquarist (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 596,
+        "title": "Knitted product manufacturing technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 44,
+        "title": "Laboratory scientist (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 221,
+        "title": "Laboratory scientist (degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 14,
+        "title": "Laboratory technician (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 612,
+        "title": "Land referencer (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 69,
+        "title": "Land-based service engineer (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 70,
+        "title": "Land-based service engineering technician (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 392,
+        "title": "Landscape or horticulture supervisor (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 565,
+        "title": "Landscape technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 110,
+        "title": "Large goods vehicle (LGV) driver C + E (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 118,
+        "title": "Lead adult care worker (level 3)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 551,
+        "title": "Lead practitioner in adult care (level 4)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 537,
+        "title": "Leader in adult care (level 5)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 493,
+        "title": "Lean manufacturing operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 325,
+        "title": "Learning and development consultant business partner (level 5)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 326,
+        "title": "Learning and development practitioner (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 402,
+        "title": "Learning and skills teacher (level 5)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 403,
+        "title": "Learning mentor (level 3)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 393,
+        "title": "Leather craftsperson (level 2)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 224,
+        "title": "Leisure and entertainment engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 228,
+        "title": "Leisure duty manager (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 414,
+        "title": "Leisure team member (level 2)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 395,
+        "title": "Library, information and archive services assistant (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 40,
+        "title": "Licensed conveyancer (level 6)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 404,
+        "title": "Lift and escalator electromechanic (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 579,
+        "title": "Lift truck and powered access engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 667,
+        "title": "Lifting equipment technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 219,
+        "title": "Lifting technician (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 664,
+        "title": "Lightning protection operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 71,
+        "title": "Live event rigger (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 383,
+        "title": "Live event technician (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 636,
+        "title": "Livestock unit technician (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 97,
+        "title": "Machinist (advanced manufacturing engineering) (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 146,
+        "title": "Maintenance and operations engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 340,
+        "title": "Mammography associate (level 4)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 11,
+        "title": "Manufacturing engineer (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 417,
+        "title": "Manufacturing manager (integrated degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 394,
+        "title": "Marina and boatyard operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 625,
+        "title": "Marine electrician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 226,
+        "title": "Marine engineer (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 292,
+        "title": "Marine pilot (level 5)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 478,
+        "title": "Marine surveyor (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 455,
+        "title": "Marine technical superintendent (degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 279,
+        "title": "Maritime caterer (level 2)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 362,
+        "title": "Maritime mechanical and electrical mechanic (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 386,
+        "title": "Maritime operations officer (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 632,
+        "title": "Market research executive (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 480,
+        "title": "Marketing assistant (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 349,
+        "title": "Marketing executive (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 348,
+        "title": "Marketing manager (level 6)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 623,
+        "title": "Mastic asphalter (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 592,
+        "title": "Material cutter (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 426,
+        "title": "Materials process engineer (degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 477,
+        "title": "Materials science technologist (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 4,
+        "title": "Mechatronics maintenance technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 598,
+        "title": "Media production co-ordinator (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 669,
+        "title": "Medical statistician (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 365,
+        "title": "Metal casting, foundry and patternmaking technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 399,
+        "title": "Metal fabricator (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 316,
+        "title": "Metal recycling general operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 577,
+        "title": "Metal recycling technical manager (MRTM) (level 5)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 187,
+        "title": "Metrology technician (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 603,
+        "title": "Midwife (2019 NMC standards) (Integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 387,
+        "title": "Midwife (degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 315,
+        "title": "Military engineering construction technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 366,
+        "title": "Mineral and construction product sampling and testing operations (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 175,
+        "title": "Mineral processing mobile and static plant operator (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 330,
+        "title": "Mineral processing weighbridge operator (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 497,
+        "title": "Mineral products technician (level 5)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 62,
+        "title": "Mortgage adviser (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 677,
+        "title": "Mortuary technician (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 210,
+        "title": "Motor finance specialist (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 59,
+        "title": "Motor vehicle service and maintenance technician (light vehicle) (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 347,
+        "title": "Motorcycle technician (repair and maintenance) (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 95,
+        "title": "Multi-positional welder (arc processes) (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 443,
+        "title": "Museums and galleries technician (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 389,
+        "title": "Nail services technician (level 2)",
+        "route": "Hair and beauty"
+    },
+    {
+        "larsCode": 448,
+        "title": "Network cable installer (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 1,
+        "title": "Network engineer (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 246,
+        "title": "Network operations (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 515,
+        "title": "New furniture product developer (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 626,
+        "title": "Non home office police officer (level 4)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 132,
+        "title": "Non-destructive testing (NDT) operator (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 207,
+        "title": "Non-destructive testing engineer (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 67,
+        "title": "Non-destructive testing engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 46,
+        "title": "Nuclear health physics monitor (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 227,
+        "title": "Nuclear operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 620,
+        "title": "Nuclear reactor desk engineer (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 47,
+        "title": "Nuclear scientist and nuclear engineer (integrated degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 163,
+        "title": "Nuclear technician (level 5)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 35,
+        "title": "Nuclear welding inspection technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 208,
+        "title": "Nursing associate (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 434,
+        "title": "Nursing associate (NMC 2018) (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 391,
+        "title": "Occupational therapist (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 666,
+        "title": "Officer of the watch (near coastal) (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 306,
+        "title": "Operating department practitioner (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 241,
+        "title": "Operational firefighter (level 3)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 600,
+        "title": "Operational research specialist (level 7)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 104,
+        "title": "Operations or departmental manager (level 5)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 247,
+        "title": "Optical assistant (level 2)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 422,
+        "title": "Oral health practitioner (level 4)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 328,
+        "title": "Ordnance munitions and explosives (OME) professional (integrated degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 583,
+        "title": "Ordnance munitions and explosives specialist (integrated degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 560,
+        "title": "Ordnance munitions explosives technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 197,
+        "title": "Organ builder (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 608,
+        "title": "Orthodontic therapist (integrated) (level 4)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 351,
+        "title": "Outdoor activity instructor (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 672,
+        "title": "Outdoor learning specialist (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 75,
+        "title": "Outside broadcasting engineer (integrated degree) (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 302,
+        "title": "Packaging professional (integrated degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 452,
+        "title": "Packhouse line leader (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 290,
+        "title": "Painter and decorator (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 106,
+        "title": "Papermaker (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 42,
+        "title": "Paralegal (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 318,
+        "title": "Paramedic (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 48,
+        "title": "Paraplanner (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 189,
+        "title": "Passenger transport driver - bus, coach and tram (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 214,
+        "title": "Passenger transport operations manager (level 4)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 206,
+        "title": "Passenger transport operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 286,
+        "title": "Payroll administrator (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 613,
+        "title": "Payroll assistant manager (level 5)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 682,
+        "title": "Peer worker (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 321,
+        "title": "Personal trainer (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 268,
+        "title": "Pest control technician (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 396,
+        "title": "Pharmacy services assistant (level 2)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 471,
+        "title": "Pharmacy technician (integrated) (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 438,
+        "title": "Photographic assistant (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 506,
+        "title": "Physician associate (degree) (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 397,
+        "title": "Physiotherapist (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 312,
+        "title": "Piling attendant (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 487,
+        "title": "Pipe welder (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 529,
+        "title": "Plasterer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 288,
+        "title": "Plasterer (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 486,
+        "title": "Plate welder (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 635,
+        "title": "Play therapist (level 7)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 225,
+        "title": "Plumbing and domestic heating technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 281,
+        "title": "Podiatrist (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 282,
+        "title": "Police community support officer (level 4)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 256,
+        "title": "Police constable ( integrated degree) (level 6)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 231,
+        "title": "Policy officer (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 681,
+        "title": "Port agent (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 265,
+        "title": "Port marine operations officer (level 4)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 350,
+        "title": "Port operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 166,
+        "title": "Post graduate engineer (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 649,
+        "title": "Post production engineer (level 5)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 442,
+        "title": "Post production technical operator (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 331,
+        "title": "Poultry technician (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 284,
+        "title": "Poultry worker (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 587,
+        "title": "Power and propulsion gas turbine engineer (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 161,
+        "title": "Power engineer (integrated degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 6,
+        "title": "Power network craftsperson (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 353,
+        "title": "Powered pedestrian door installer and service engineer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 646,
+        "title": "Print operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 461,
+        "title": "Print technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 211,
+        "title": "Probate technician (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 495,
+        "title": "Probation officer (level 6)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 496,
+        "title": "Probation services practitioner (level 3)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 201,
+        "title": "Process automation engineer (degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 419,
+        "title": "Process leader (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 590,
+        "title": "Procurement and supply assistant (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 12,
+        "title": "Product design and development engineer (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 13,
+        "title": "Product design and development technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 364,
+        "title": "Production chef (level 2)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 117,
+        "title": "Professional accounting or taxation technician (level 4)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 665,
+        "title": "Professional arboriculturist (level 6)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 323,
+        "title": "Professional economist (integrated degree) (level 6)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 647,
+        "title": "Professional forester (integrated degree) (level 6)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 651,
+        "title": "Project controls professional (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 186,
+        "title": "Project controls technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 291,
+        "title": "Project manager (integrated degree) (level 6)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 23,
+        "title": "Property maintenance operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 516,
+        "title": "Props technician (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 342,
+        "title": "Propulsion technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 370,
+        "title": "Prosthetic and orthotic technician (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 368,
+        "title": "Prosthetist and orthotist (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 425,
+        "title": "Psychological wellbeing practitioner (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 507,
+        "title": "Public health practitioner (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 257,
+        "title": "Public relations and communications assistant (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 73,
+        "title": "Public sector commercial professional (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 420,
+        "title": "Public sector compliance Investigator and officer (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 36,
+        "title": "Public service operational delivery officer (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 280,
+        "title": "Publishing assistant (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 602,
+        "title": "Quality practitioner (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 611,
+        "title": "Radio network technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 345,
+        "title": "Rail and rail systems engineer (level 5)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 301,
+        "title": "Rail and rail systems principal engineer (integrated degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 313,
+        "title": "Rail and rail systems senior engineer (integrated degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 88,
+        "title": "Rail engineering advanced technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 90,
+        "title": "Rail engineering operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 89,
+        "title": "Rail engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 188,
+        "title": "Rail infrastructure operator (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 24,
+        "title": "Railway engineering design technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 217,
+        "title": "Recruitment consultant (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 218,
+        "title": "Recruitment resourcer (level 2)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 49,
+        "title": "Refrigeration air conditioning and heat pump engineering technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 170,
+        "title": "Registered nurse - degree (NMC 2010) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 409,
+        "title": "Registered nurse degree (NMC 2018) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 536,
+        "title": "Registrar (creative and cultural) (level 6)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 371,
+        "title": "Regulatory affairs specialist (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 253,
+        "title": "Regulatory compliance officer (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 243,
+        "title": "Rehabilitation worker (visual impairment) (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 7,
+        "title": "Relationship manager (banking) (level 6)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 457,
+        "title": "Research scientist (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 384,
+        "title": "Retail leadership (integrated degree) (level 6)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 147,
+        "title": "Retail manager (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 140,
+        "title": "Retail team leader (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 101,
+        "title": "Retailer (level 2)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 320,
+        "title": "Revenues and welfare benefits practitioner (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 346,
+        "title": "Risk and safety management professional (degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 476,
+        "title": "Road surfacing operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 136,
+        "title": "Road transport engineering manager (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 518,
+        "title": "Roofer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 260,
+        "title": "Safety, health and environment technician (level 3)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 369,
+        "title": "Sales executive (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 273,
+        "title": "Scaffolder (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 232,
+        "title": "School business professional (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 45,
+        "title": "Science industry maintenance technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 248,
+        "title": "Science industry process and plant engineer (degree) (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 249,
+        "title": "Science manufacturing process operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 15,
+        "title": "Science manufacturing technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 34,
+        "title": "Seafarer (deck rating) (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 367,
+        "title": "Security first line manager (level 3)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 258,
+        "title": "Senior and head of facilities management (integrated degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 144,
+        "title": "Senior compliance and risk specialist (level 6)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 546,
+        "title": "Senior culinary chef (level 4)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 335,
+        "title": "Senior equine groom (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 31,
+        "title": "Senior financial services customer adviser (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 151,
+        "title": "Senior healthcare support worker (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 66,
+        "title": "Senior housing and property management (level 4)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 205,
+        "title": "Senior insurance professional (level 6)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 270,
+        "title": "Senior investment and commercial banking professional (level 7)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 586,
+        "title": "Senior journalist (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 236,
+        "title": "Senior leader (level 7)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 317,
+        "title": "Senior metrology technician (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 615,
+        "title": "Senior people professional (level 7)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 139,
+        "title": "Senior production chef (level 3)",
+        "route": "Catering and hospitality"
+    },
+    {
+        "larsCode": 531,
+        "title": "Senior professional economist (integrated degree) (level 7)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 570,
+        "title": "Serious and complex crime investigator (integrated degree) (level 6)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 334,
+        "title": "Sewing machinist (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 607,
+        "title": "Signage technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 679,
+        "title": "Small vessel chief engineer (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 524,
+        "title": "Smart home technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 381,
+        "title": "Social worker (integrated degree) (level 6)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 2,
+        "title": "Software developer (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 154,
+        "title": "Software development technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 91,
+        "title": "Software tester (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 43,
+        "title": "Solicitor (level 7)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 494,
+        "title": "Sonographer (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 594,
+        "title": "Space engineering technician (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 520,
+        "title": "Specialist community public health nurse (level 7)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 449,
+        "title": "Specialist rescue operative (level 4)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 360,
+        "title": "Specialist tyre operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 158,
+        "title": "Spectacle maker (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 473,
+        "title": "Speech and language therapist (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 446,
+        "title": "Sporting excellence professional (level 3)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 616,
+        "title": "Sports coach (level 4)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 145,
+        "title": "Sports turf operative (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 661,
+        "title": "Stained glass craftsperson (level 4)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 549,
+        "title": "Stairlift, platform lift, service lift electromechanic (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 171,
+        "title": "Steel fixer (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 344,
+        "title": "Stockperson (beef, pigs, sheep, dairy) (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 637,
+        "title": "Stonemason (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 538,
+        "title": "Storyboard artist (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 378,
+        "title": "Structural steelwork erector (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 357,
+        "title": "Structural steelwork fabricator (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 398,
+        "title": "Supply chain leadership professional (integrated degree) (level 6)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 109,
+        "title": "Supply chain operator (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 209,
+        "title": "Supply chain practitioner (fast moving consumer good) (previously Operator Manager) (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 111,
+        "title": "Supply chain warehouse operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 51,
+        "title": "Surveying technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 116,
+        "title": "Survival equipment fitter (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 564,
+        "title": "Sustainability business specialist (integrated degree) (level 7)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 52,
+        "title": "Systems engineer (degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 433,
+        "title": "Systems engineer (degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 556,
+        "title": "Systems thinking practitioner (level 7)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 203,
+        "title": "Teacher (level 6)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 297,
+        "title": "Teaching assistant (level 3)",
+        "route": "Education and childcare"
+    },
+    {
+        "larsCode": 105,
+        "title": "Team leader or supervisor (level 3)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 459,
+        "title": "Technical dyer and colourist (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 319,
+        "title": "Technician scientist (level 5)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 557,
+        "title": "Telecoms field operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 296,
+        "title": "Textile care operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 267,
+        "title": "Textile manufacturing operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 519,
+        "title": "Textile technical specialist (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 445,
+        "title": "Therapeutic radiographer (integrated degree) (level 6)",
+        "route": "Health and science"
+    },
+    {
+        "larsCode": 499,
+        "title": "Through life engineering services specialist (integrated degree) (level 7)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 578,
+        "title": "Tool process design engineer (level 6)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 633,
+        "title": "Town planning assistant (level 4)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 261,
+        "title": "Trade supplier (level 2)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 569,
+        "title": "Trade union official (level 4)",
+        "route": "Business and administration"
+    },
+    {
+        "larsCode": 285,
+        "title": "Train driver (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 428,
+        "title": "Tramway construction operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 654,
+        "title": "Transport and warehouse operations supervisor (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 462,
+        "title": "Transport planner (integrated degree) (level 6)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 100,
+        "title": "Transport planning technician (level 3)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 120,
+        "title": "Travel consultant (level 3)",
+        "route": "Sales, marketing and procurement"
+    },
+    {
+        "larsCode": 230,
+        "title": "Tunnelling operative (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 571,
+        "title": "Underkeeper (level 2)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 155,
+        "title": "Unified communications technician (level 3)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 81,
+        "title": "Unified communications trouble shooter (level 4)",
+        "route": "Digital"
+    },
+    {
+        "larsCode": 671,
+        "title": "Urban driver (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 53,
+        "title": "Utilities engineering technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 450,
+        "title": "Vehicle damage assessor (level 4)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 435,
+        "title": "Vehicle damage mechanical, electrical and trim (MET) technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 436,
+        "title": "Vehicle damage paint technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 437,
+        "title": "Vehicle damage panel technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 627,
+        "title": "Vet technician (livestock) (level 5)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 333,
+        "title": "Veterinary nurse (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 648,
+        "title": "VFX artist or technical director (level 6)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 629,
+        "title": "VFX supervisor (level 7)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 380,
+        "title": "Wall and floor tiler (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 374,
+        "title": "Waste resource operative (level 2)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 235,
+        "title": "Watchmaker (level 3)",
+        "route": "Creative and design"
+    },
+    {
+        "larsCode": 508,
+        "title": "Water environment worker (level 3)",
+        "route": "Agriculture, environmental and animal care"
+    },
+    {
+        "larsCode": 568,
+        "title": "Water network operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 593,
+        "title": "Water process operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 27,
+        "title": "Water process technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 416,
+        "title": "Water treatment technician (level 3)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 617,
+        "title": "Wellbeing and holistic therapist (level 3)",
+        "route": "Hair and beauty"
+    },
+    {
+        "larsCode": 423,
+        "title": "Wireless communications rigger (level 2)",
+        "route": "Construction and the built environment"
+    },
+    {
+        "larsCode": 472,
+        "title": "Wood product manufacturing operative (level 2)",
+        "route": "Engineering and manufacturing"
+    },
+    {
+        "larsCode": 322,
+        "title": "Workboat crewmember (level 3)",
+        "route": "Transport and logistics"
+    },
+    {
+        "larsCode": 32,
+        "title": "Workplace pensions (administrator or consultant) (level 3)",
+        "route": "Legal, finance and accounting"
+    },
+    {
+        "larsCode": 644,
+        "title": "Youth justice practitioner (level 5)",
+        "route": "Protective services"
+    },
+    {
+        "larsCode": 610,
+        "title": "Youth support worker (level 3)",
+        "route": "Care services"
+    },
+    {
+        "larsCode": 675,
+        "title": "Youth worker (level 6)",
+        "route": "Care services"
+    }
+]

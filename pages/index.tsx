@@ -4,7 +4,7 @@ import React, { FC } from 'react'
 import { PageTitle } from '../components/PageTitle';
 import { VacancyResultsList } from '../components/VacancyResultsList';
 import { getAllVacancies } from '../services/vacancy-service';
-import { Vacancy } from '../types';
+import { Vacancy, SearchState } from '../types';
 
 interface VacanciesPageProps {
   vacancies: Vacancy[];
@@ -29,9 +29,17 @@ const Vacancies: FC<VacanciesPageProps> = ({ vacancies }) => {
 }
 
 export async function getServerSideProps(context: NextPageContext) {
+  const searchState: SearchState = {
+    location: context.query.location as string || "",
+    miles: Number.parseInt(context.query.miles as string) || 0,
+    larsCode: context.query.larsCode as string || ""
+  }
+
+  console.log(searchState);
+
   return {
     props: {
-      vacancies: await getAllVacancies()
+      vacancies: await getAllVacancies(searchState)
     }
   }
 }
