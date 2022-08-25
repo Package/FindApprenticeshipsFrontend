@@ -56,3 +56,15 @@ export interface Vacancy {
 export interface ApiVacancyResponse {
     vacancies: Vacancy[];
 }
+
+export interface LarsMapping {
+    larsCode: number;
+    title: string;
+    route: string;
+}
+
+export interface SearchState {
+    location: string;
+    miles: number;
+    larsCode: string;
+}

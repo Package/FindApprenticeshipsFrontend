@@ -61,7 +61,7 @@ li {
 /* PageTitle */
 .page-header {
     padding: 2rem 0;
-    background: #263135;
+    background: var(--colour-black)
 }
 
 .page-header--title {
@@ -157,11 +157,6 @@ li {
 
 .vacancy-detail--apply--button {
     display: inline-block;
-    text-decoration: none;
-    color: #fff;
-    background: var(--colour-green);
-    padding: .5rem .75rem;
-    box-shadow: 0 2px 0 var(--colour-dark-green);
 }
 
 .vacancy-detail--apply--button:visited {
@@ -178,6 +173,48 @@ li {
     margin: 0 0 .5rem 0;
 }
 
+/* SearchForm */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: .25rem;
+    font-size: 1.2rem;
+}
+
+.label--help {
+    display: block;
+    color: var(--colour-grey);
+    margin-bottom: .25rem;
+    font-size: .95rem;
+}
+
+input[type="text"],
+select {
+    border: 2px solid var(--colour-black);
+    padding: .25rem .5rem;
+}
+
+input[type="text"]:focus,
+select:focus,
+button[type="submit"]:focus {
+    outline: 3px solid orange;
+}
+
+.button {
+    text-decoration: none;
+    color: #fff;
+    background: var(--colour-green);
+    padding: .5rem 1rem;
+    box-shadow: 0 2px 0 var(--colour-dark-green);
+    border: 0;
+    cursor: pointer;
+}
+
+/* Mobile */
 @media all and (max-width: 960px) {
     .vacancy-detail--sections {
         grid-template-columns: 1fr;
