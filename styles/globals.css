@@ -33,6 +33,10 @@ a:visited {
     color: var(--colour-link-visited);
 }
 
+a:focus {
+    outline: 3px solid orange;
+}
+
 address {
     font-style: normal;
 }
@@ -56,6 +60,11 @@ li {
 
 .fw-bold {
     font-weight: bold;
+}
+
+.page-navigation {
+    display: block;
+    margin-bottom: 1rem;
 }
 
 /* PageTitle */

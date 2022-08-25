@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { FC } from 'react'
 import { PageTitle } from '../components/PageTitle';
@@ -33,6 +34,12 @@ const SearchPage: FC<SearchPageProps> = () => {
                 <PageTitle title="Find an apprenticeship" description="Search and apply for an apprenticeship in England" />
 
                 <div className="container">
+                    <Link href="/" className="page-navigation">
+                        <a className="page-navigation">
+                            Browse Apprenticeships
+                        </a>
+                    </Link>
+
                     <SearchForm onSearch={onSearch} />
                 </div>
             </div>

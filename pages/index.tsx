@@ -1,5 +1,6 @@
 import { NextPageContext } from 'next';
 import Head from 'next/head';
+import Link from 'next/link';
 import React, { FC } from 'react'
 import { PageTitle } from '../components/PageTitle';
 import { VacancyResultsList } from '../components/VacancyResultsList';
@@ -21,6 +22,12 @@ const Vacancies: FC<VacanciesPageProps> = ({ vacancies }) => {
         <PageTitle title="Find an apprenticeship" description="Search and apply for an apprenticeship in England" />
 
         <div className="container">
+          <Link href="/search">
+            <a className="page-navigation">
+              Search Apprenticeships
+            </a>
+          </Link>
+
           <VacancyResultsList vacancies={vacancies} />
         </div>
       </div>
