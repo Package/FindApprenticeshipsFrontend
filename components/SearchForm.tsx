@@ -49,7 +49,7 @@ export const SearchForm: FC<SearchFormProps> = ({ onSearch }) => {
                         {[...LARS_MAPPING.keys()].sort().map(route => (
                             <optgroup key={route} label={route}>
                                 {LARS_MAPPING.get(route)?.map(mapping => (
-                                    <option value={mapping.larsCode}>{mapping.title}</option>
+                                    <option value={mapping.larsCode} key={mapping.larsCode}>{mapping.title}</option>
                                 ))}
                             </optgroup>
                         ))}
