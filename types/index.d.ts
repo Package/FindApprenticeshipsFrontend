@@ -57,6 +57,17 @@ export interface ApiVacancyResponse {
     vacancies: Vacancy[];
 }
 
+export interface ApiPostCodeResponse {
+    data: {
+        attributes: {
+            location: {
+                lat: number,
+                lon: number
+            }
+        }
+    }
+}
+
 export interface LarsMapping {
     larsCode: number;
     title: string;
@@ -68,3 +79,4 @@ export interface SearchState {
     miles: number;
     larsCode: string;
 }
+
